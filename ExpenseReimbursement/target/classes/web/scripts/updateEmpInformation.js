@@ -1,0 +1,1 @@
+var URL = "http://localhost:7001//newemployeeinfos";
